@@ -1,7 +1,7 @@
 # CodeGamers-Tercer-Semestre
 
 
-Integrantes:
+## Integrantes: 
 
 Diego Raul Di Stefano: diego.distefano.1989@gmail.com
 
