@@ -9,3 +9,9 @@ while (i < 9){
     i++;
     console.log(i);
 }
+
+while (j<10){
+    j = 0;
+    j++;
+    console.log("JOTA es igual a: " + j);
+}
