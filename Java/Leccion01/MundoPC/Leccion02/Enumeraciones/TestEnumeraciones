@@ -1,0 +1,28 @@
+package enumeraciones;
+
+import enumeraciones.Dias;
+
+public class TestEnumeraciones {
+    public static void main(String[] args) {
+        System.out.println("Dia 1: "+Dias.LUNES);
+        indicarDiasSemana(Dias.LUNES); //las enumeraciones se tratan como cadenas
+        //ahora no se deben utilizar comillas, se accede a traves de el operador de punto
+
+        System.out.println("Continente No. 4: "+Continentes.//impotar );
+        System.out.println("No. de paises en el 4to continente: "+Continentes.//importar.getPaises());
+
+    }
+
+    private static void indicarDiaSemana(Dias dias) {
+        switch(dias) {
+            case LUNES:
+            System.out.println("Primer dia de la semana");
+            break;
+        case Martes:
+            System.out.println("Segundo dia de la semana");
+            break;
+            //agregar todos los dias de la semana
+            //agregar default
+        }
+    }
+}
