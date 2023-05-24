@@ -1,4 +1,4 @@
-# insertar un registro nuevo
+# EJECUCION DE QUERYS EXITOSA
 
 import psycopg2 as bd # Esto es para poder conectarnos a Postgre
 
