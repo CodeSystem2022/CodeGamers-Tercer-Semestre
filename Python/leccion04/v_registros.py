@@ -1,4 +1,4 @@
-#PARA VARIOS REGISTROS
+#ITERAR TUPLAS CORRECTAMENTE
 
 import psycopg2 # Esto es para poder conectarnos a Postgre
 
