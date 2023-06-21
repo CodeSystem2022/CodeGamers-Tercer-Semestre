@@ -1,0 +1,34 @@
+
+
+              Orden                                                     Ventas Test
+idOrden: number                                                  Esto no es una clase
+productos[]: Producto                                            Es la prueba de creación
+contadorProductosAgregados: number                               de objetos Producto y Orden.
+contadorOrdenes: number = 5                                      Responsabilidades
+Orden()                                                          --Ejecutar la prueba de 
+agregarProducto(producto)                                        la aplicación de Ventas
+calcularTotal(): number
+mostrarOrden()
+Responsabilidades
+--Crear objetos Orden
+-- Administrar los productos de una orden
+
+
+
+
+
+
+             Producto
+idProducto: number
+nombre: string
+precio: number
+contadorProductos: number
+Producto()
+getidProducto(): number
+getNombre(): string
+setNombre(nombre)
+getPrecio(): number
+setPrecio(precio)
+toString(): string
+Responsabilidades
+--Crear objetos de tipo Producto
